@@ -10,6 +10,7 @@
     box-shadow: 0px 10px 0px #b3382a;
     cursor: pointer;
     transition: all .3s;
+    user-select: none;
 }
 
 #btn:hover {
